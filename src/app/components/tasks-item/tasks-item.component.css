@@ -9,6 +9,10 @@
     border-left: 5px solid green;
 }
 
+.task.reminder-no{
+    border-left: 5px solid rgb(193, 238, 68);
+}   
+
 .task h3{
     display: flex;
     align-items: center;

@@ -1,29 +1,40 @@
 {
-    "tasks":[{
-        "id":1,
-        "text":"Terminar Modulo de Angular",
-        "day": "01 de Enero de 2022 a las 12:24",
-        "reminder": true
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar Modulo de Angular",
+      "day": "01 de Enero de 2022 a las 12:24",
+      "reminder": false
     },
     {
-        "id":2,
-        "text":"Terminar Modulo de BD",
-        "day": "01 de Enero de 2022 a las 12:25",
-        "reminder": true
+      "id": 2,
+      "text": "Terminar Modulo de BD",
+      "day": "01 de Enero de 2022 a las 12:25",
+      "reminder": false
     },
     {
-        "id":3,
-        "text":"Terminar Modulo de JAVA",
-        "day": "01 de Enero de 2022 a las 12:26",
-        "reminder": true
+      "id": 3,
+      "text": "Terminar Modulo de JAVA",
+      "day": "01 de Enero de 2022 a las 12:26",
+      "reminder": false
     },
     {
-        "id":4,
-        "text":"Terminar Modulo de APIS",
-        "day": "01 de Enero de 2022 a las 12:27",
-        "reminder": true
+      "id": 4,
+      "text": "Terminar Modulo de APIII",
+      "day": "01 de Enero de 2022 a las 12:26",
+      "reminder": true
+    },
+    {
+      "text": "nueva tarea",
+      "day": "mañana 10:23",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "nueva tarea 22",
+      "day": "mañana 10:23:32",
+      "reminder": false,
+      "id": 6
     }
-]
-
-
+  ]
 }
