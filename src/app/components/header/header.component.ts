@@ -9,7 +9,7 @@ export class HeaderComponent implements OnInit {
 
   constructor() { }
 
-  title:string= "Tasks List"
+  title:string= "Lista de tareas"
 
   ngOnInit(): void {
   }

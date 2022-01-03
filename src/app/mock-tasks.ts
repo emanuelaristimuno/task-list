@@ -20,7 +20,7 @@ export const TASKS:Task[]= [
     },
     {
         id:4,
-        text:"Terminar Modulo de TESTUniT",
+        text:"Terminar Modulo de APIS",
         day: "01 de Enero de 2022 a las 12:27",
         reminder: true
     }
