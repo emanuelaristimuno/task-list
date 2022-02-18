@@ -17,11 +17,11 @@ export class AddTaskComponent implements OnInit {
   showAddTask:boolean = false;
   subscription? : Subscription;
 
-  constructor(uiService: UiService) {     
+  constructor(uiService: UiService) {
     this.subscription = uiService.onToggle().subscribe(
       value=>{
         this.showAddTask = value;
-        
+
       }
     );
 

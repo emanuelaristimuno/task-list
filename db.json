@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Terminar Modulo de Angular",
       "day": "01 de Enero de 2022 a las 12:24",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -13,28 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Terminar Modulo de JAVA",
-      "day": "01 de Enero de 2022 a las 12:26",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Terminar Modulo de APIII",
-      "day": "01 de Enero de 2022 a las 12:26",
-      "reminder": true
-    },
-    {
-      "text": "nueva tarea",
-      "day": "mañana 10:23",
+      "text": "desarrollar api en java",
+      "day": "marzo de 2022",
       "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "nueva tarea 22",
-      "day": "mañana 10:23:32",
-      "reminder": false,
-      "id": 6
+      "id": 3
     }
   ]
 }
