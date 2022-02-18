@@ -4,19 +4,24 @@
       "id": 1,
       "text": "Terminar Modulo de Angular",
       "day": "01 de Enero de 2022 a las 12:24",
-      "reminder": true
+      "reminder": true,
+      "otro_dato":"otro datos de color"
     },
     {
       "id": 2,
       "text": "Terminar Modulo de BD",
       "day": "01 de Enero de 2022 a las 12:25",
-      "reminder": true
+      "reminder": true,
+      "otro_dato":"otro datos de color2"
+
     },
     {
+      "id": 3,
       "text": "desarrollar api en java",
       "day": "marzo de 2022",
       "reminder": true,
-      "id": 3
+      "otro_dato":"otro datos de color3"
+
     }
   ]
 }
