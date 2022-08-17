@@ -5,23 +5,27 @@
       "text": "Terminar Modulo de Angular",
       "day": "01 de Enero de 2022 a las 12:24",
       "reminder": true,
-      "otro_dato":"otro datos de color"
+      "otro_dato": "otro datos de color"
     },
     {
       "id": 2,
       "text": "Terminar Modulo de BD",
       "day": "01 de Enero de 2022 a las 12:25",
-      "reminder": true,
-      "otro_dato":"otro datos de color2"
-
+      "reminder": false,
+      "otro_dato": "otro datos de color2"
     },
     {
       "id": 3,
       "text": "desarrollar api en java",
       "day": "marzo de 2022",
       "reminder": true,
-      "otro_dato":"otro datos de color3"
-
+      "otro_dato": "otro datos de color3"
+    },
+    {
+      "text": "Estudiar Spring Boot",
+      "day": "Mes de Marzo",
+      "reminder": true,
+      "id": 4
     }
   ]
 }

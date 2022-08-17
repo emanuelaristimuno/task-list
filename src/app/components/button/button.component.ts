@@ -12,12 +12,12 @@ export class ButtonComponent implements OnInit {
   @Output() btnClick = new EventEmitter();
 
   constructor() { }
-  
+
   ngOnInit(): void {
   }
 
   onClick(){
-    this.btnClick.emit(); 
+    this.btnClick.emit();
   }
 
 }
